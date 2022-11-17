@@ -1,0 +1,10 @@
+
+
+
+riables: sirven para almacenar datos y pueden su valor y tipo(solo en js) a lo largo del tiempo
+*Strings: Son lineas de texto que se cierran entre comillas, pueden ser simples o dobles
+*Funciones: son capaces de realizar operaciones y siempre devuelven un valor, también se le pueden pasar argumentos
+por parametros para realizar operaciones específicas con ellos.
+*Los "ifs" son operaciones comparativas donde si se encuentra el "true" o "false" alterará las operaciones a realizar
+*Los booleans pueden ser verdadero o falso y se utilizan para comparar
+
