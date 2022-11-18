@@ -1,0 +1,6 @@
+*"for" es un iterador al cual uno puede darle 3 parametros(o 2), el valor inicial del indice, el límite al que
+este llegará y la operación que realizará el indice en cada iteración
+
+* && es el operador lógico "y" que comparará dos o mas argumentos
+* || es el operador lógico "o" que comparará dos o mas argumentos
+* ! es el operador lógico de negación
