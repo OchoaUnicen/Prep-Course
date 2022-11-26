@@ -1,0 +1,2 @@
+Un array es un conjunto de datos. Siempre son del mismo tipo y se pueden recorrer por medio de un iterador
+Se podria ejemplificar como una estanteria donde cada estante contiene un dato especifico.

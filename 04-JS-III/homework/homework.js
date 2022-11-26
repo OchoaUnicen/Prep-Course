@@ -246,7 +246,7 @@ function breakStatement(numero) {
   //Pista: usá el statement 'break'
   // Tu código:
   let result = [];
-  for (let i = 0; i <= 10; i++) {
+  for (let i = 0; i < 10; i++) {
     numero += 2;
     result.push(numero);
     if (numero === i) {
@@ -264,7 +264,7 @@ function continueStatement(numero) {
   //Pista: usá el statement 'continue'
   // Tu código:
   let result = [];
-  for (let i = 0; i <= 10; i++) {
+  for (let i = 0; i < 10; i++) {
     if (i === 5) {
       continue;
     }
