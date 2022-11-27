@@ -1,0 +1,10 @@
+Los objetos tienen un conjunto de datos internos que pueden ser de cualquier tipo
+entre ellos varian los atributos y los metodos que ejecutan comandos
+en el ejemplo de un objeto bicicleta, los atributos serian su color: rojo <(y su valor), pesoenKg:25,
+alturaEnCm:12, y los metodos avanzar(), frenar()
+
+con un for (key in object) se pueden recorrer las distintas propiedades de este objeto
+
+La notación de puntos es efectiva cuando se "conocen" los nombres de las claves, pero para
+poder recorrer mejor estos objetos desconociendo las claves o pasandolas
+por parametro, se puede usar la notación de corchetes.
